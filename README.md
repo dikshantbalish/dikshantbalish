@@ -68,19 +68,6 @@ My code compiles faster than my coffee brews ☕ — and neither works right if 
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshantbalish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantbalish&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantbalish&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshantbalish&theme=tokyo-night&hide_border=true" width="48%"/>
-</p>
-
-<br/>
 
 ## 🐍 Contribution Snake
 
